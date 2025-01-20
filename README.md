@@ -2,6 +2,8 @@
 
 Some text about me and my github profile
 
+![alt text](https://github.com/rtfgvbhjnf/rtfgvbhjnf/blob/main/5217567395948917655.jpg?raw=true)
+
 <!--
 **rtfgvbhjnf/rtfgvbhjnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
