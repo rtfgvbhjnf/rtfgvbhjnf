@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Some text about me and my github profile
+
 <!--
 **rtfgvbhjnf/rtfgvbhjnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
